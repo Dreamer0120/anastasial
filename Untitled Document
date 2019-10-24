@@ -1,0 +1,6 @@
+~/anastasial-rtech/src/r2d2_navigator$ roslaunch my_r2d2 r2d2.launch
+ rosrun turtlesim turtle_teleop_key
+
+rosnode list
+rosnode info
+
